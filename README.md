@@ -15,23 +15,23 @@ Hệ thống điểm danh thông minh được xây dựng bằng Python và Str
 ## 🖼️ Demo
 
 ### 1. Giao diện chính - Visitor Validation
-![Demo 1](demo/images/demo_1.png)
+![Demo 1](https://media.discordapp.net/attachments/1276917701717266526/1462674117995266251/image.png?ex=696f0cec&is=696dbb6c&hm=2a5b191ac0b6e8ab7d619949b1c350f3b1d9c6df59c182e993917a316fb82c7d&=&format=webp&quality=lossless&width=1552&height=873)
 *Giao diện điểm danh với camera*
 
 ### 2. Xem lịch sử điểm danh
-![Demo 2](demo/images/demo_2.png)
+![Demo 2](https://media.discordapp.net/attachments/1276917701717266526/1462674243106902140/image.png?ex=696f0d0a&is=696dbb8a&hm=2c5dd8816082cac07da95284d77b794c603a6a06912d7819b1b8c29feb2b5d83&=&format=webp&quality=lossless&width=1552&height=873)
 *Xem và xuất lịch sử điểm danh*
 
 ### 3. Đăng ký khuôn mặt mới
-![Demo 3](demo/images/demo_3.png)
+![Demo 3](https://media.discordapp.net/attachments/1276917701717266526/1462674872412016742/image.png?ex=696f0da0&is=696dbc20&hm=1496b407eefded7af286dcc30728818214cde4e9a6e92f2b559c2f11d1f75c8a&=&format=webp&quality=lossless&width=1547&height=873)
 *Thêm nhân viên mới vào hệ thống*
 
 ### 4. Quản lý cơ sở dữ liệu
-![Demo 4](demo/images/demo_4.png)
+![Demo 4](https://media.discordapp.net/attachments/1276917701717266526/1462674899393839336/image.png?ex=696f0da7&is=696dbc27&hm=6e4f7cafb7e762d06d6eda9f11865f1cb8a27cdef8fa642b57d95712aa292682&=&format=webp&quality=lossless&width=1552&height=873)
 *Xóa nhân viên khỏi hệ thống*
 
 ### 5. Tính năng Anti-Spoofing
-![Demo 5](demo/images/demo_5_anti_spoof.png)
+![Demo 5](https://media.discordapp.net/attachments/1276917701717266526/1462675345584034028/image.png?ex=696f0e11&is=696dbc91&hm=89e7f58ae0bccd7ff3f3f36942e847ad0258868a6299ac7e052f528a8a6d02e4&=&format=webp&quality=lossless&width=1551&height=873)
 *Hệ thống phát hiện và chặn các hình thức giả mạo (ảnh, video, mặt nạ)*
 
 ## 🚀 Tính năng
