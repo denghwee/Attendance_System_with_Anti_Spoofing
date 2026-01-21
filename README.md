@@ -1,4 +1,4 @@
-# Face Recognition Attendance System
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/e478470e-4112-4da6-847c-c91cd548b462" /><img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/5c776fa3-fc8b-4d98-b9e8-75c7b82c7439" /># Face Recognition Attendance System
 
 Hệ thống điểm danh tự động sử dụng nhận diện khuôn mặt với khả năng chống giả mạo (anti-spoofing).
 
@@ -15,23 +15,23 @@ Hệ thống điểm danh thông minh được xây dựng bằng Python và Str
 ## 🖼️ Demo
 
 ### 1. Giao diện chính - Visitor Validation
-![Demo 1](https://media.discordapp.net/attachments/1276917701717266526/1462674117995266251/image.png?ex=696f0cec&is=696dbb6c&hm=2a5b191ac0b6e8ab7d619949b1c350f3b1d9c6df59c182e993917a316fb82c7d&=&format=webp&quality=lossless&width=1552&height=873)
+![Demo 1](https://media.discordapp.net/attachments/1276917701717266526/1462674117995266251/image.png?ex=6971072c&is=696fb5ac&hm=cc8090fc1e8a44d9d3ffa60ab223ae05b8a75eb6db29e5f8a4cafdc545d80c38&=&format=webp&quality=lossless&width=1552&height=873)
 *Giao diện điểm danh với camera*
 
 ### 2. Xem lịch sử điểm danh
-![Demo 2](https://media.discordapp.net/attachments/1276917701717266526/1462674243106902140/image.png?ex=696f0d0a&is=696dbb8a&hm=2c5dd8816082cac07da95284d77b794c603a6a06912d7819b1b8c29feb2b5d83&=&format=webp&quality=lossless&width=1552&height=873)
+![Demo 2](https://media.discordapp.net/attachments/1276917701717266526/1462674243106902140/image.png?ex=6971074a&is=696fb5ca&hm=259ce7e23350ac61a457507222d3004d58eab655c045706aa38425f25f876c9a&=&format=webp&quality=lossless&width=1552&height=873)
 *Xem và xuất lịch sử điểm danh*
 
 ### 3. Đăng ký khuôn mặt mới
-![Demo 3](https://media.discordapp.net/attachments/1276917701717266526/1462674872412016742/image.png?ex=696f0da0&is=696dbc20&hm=1496b407eefded7af286dcc30728818214cde4e9a6e92f2b559c2f11d1f75c8a&=&format=webp&quality=lossless&width=1547&height=873)
+![Demo 3](https://media.discordapp.net/attachments/1276917701717266526/1462674243106902140/image.png?ex=6971074a&is=696fb5ca&hm=259ce7e23350ac61a457507222d3004d58eab655c045706aa38425f25f876c9a&=&format=webp&quality=lossless&width=1552&height=873)
 *Thêm nhân viên mới vào hệ thống*
 
 ### 4. Quản lý cơ sở dữ liệu
-![Demo 4](https://media.discordapp.net/attachments/1276917701717266526/1462674899393839336/image.png?ex=696f0da7&is=696dbc27&hm=6e4f7cafb7e762d06d6eda9f11865f1cb8a27cdef8fa642b57d95712aa292682&=&format=webp&quality=lossless&width=1552&height=873)
+![Demo 4](https://media.discordapp.net/attachments/1276917701717266526/1462674899393839336/image.png?ex=697107e7&is=696fb667&hm=e21b85996e4956b86fe54986bd97d3133c353240f66c5493dec2e921463a6ff3&=&format=webp&quality=lossless&width=1552&height=873)
 *Xóa nhân viên khỏi hệ thống*
 
 ### 5. Tính năng Anti-Spoofing
-![Demo 5](https://media.discordapp.net/attachments/1276917701717266526/1462675345584034028/image.png?ex=696f0e11&is=696dbc91&hm=89e7f58ae0bccd7ff3f3f36942e847ad0258868a6299ac7e052f528a8a6d02e4&=&format=webp&quality=lossless&width=1551&height=873)
+![Demo 5](https://media.discordapp.net/attachments/1276917701717266526/1462675345584034028/image.png?ex=69710851&is=696fb6d1&hm=7ba6a25f161644b0dae4bf9f2b860669b8076b95821f029313ead9048edb8d6d&=&format=webp&quality=lossless&width=1551&height=873)
 *Hệ thống phát hiện và chặn các hình thức giả mạo (ảnh, video, mặt nạ)*
 
 ## 🚀 Tính năng
