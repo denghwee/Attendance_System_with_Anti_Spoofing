@@ -1,4 +1,4 @@
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/e478470e-4112-4da6-847c-c91cd548b462" /><img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/5c776fa3-fc8b-4d98-b9e8-75c7b82c7439" /># Face Recognition Attendance System
+# Face Recognition Attendance System
 
 Hệ thống điểm danh tự động sử dụng nhận diện khuôn mặt với khả năng chống giả mạo (anti-spoofing).
 
